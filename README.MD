@@ -1,5 +1,5 @@
 
-# collection of claude-code-source-code
+# A collection of the newest Claude Code open source
 
 > Source archive of Claude Code and a clean-room Python rewrite research repository
 
